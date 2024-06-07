@@ -9,6 +9,8 @@
 ## 📝 Descrição do Projeto
 O **King Lift Dashboard** é um projeto desenvolvido em Microsoft Excel para análise e visualização de dados financeiros da King Lift, uma empresa de locação de empilhadeiras. Este projeto demonstra habilidades avançadas em análise de dados, modelagem e visualização.. Ele foi projetado para proporcionar insights valiosos que ajudam a empresa a aumentar seu faturamento e melhorar a eficiência operacional.
 
+<img src="03_Recursos/gif_dashboard.gif">
+
 ## 🗂️ Estrutura do Repositório
 Este repositório está organizado da seguinte forma:
 - **01_Base_de_Dados**: Contém os arquivos de dados brutos utilizados para análise, incluindo detalhes de faturamento, clientes e equipamentos.
