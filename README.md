@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📝 Descrição do Projeto
-O **King Lift Dashboard** é um projeto desenvolvido em Microsoft Excel para análise e visualização de dados financeiros da King Lift, uma empresa de locação de empilhadeiras. Este projeto demonstra habilidades avançadas em análise de dados, modelagem e visualização.. Ele foi projetado para proporcionar insights valiosos que ajudam a empresa a aumentar seu faturamento e melhorar a eficiência operacional.
+O **King Lift Dashboard** é um projeto desenvolvido em Microsoft Excel para análise e visualização de dados financeiros da King Lift, uma empresa de locação de empilhadeiras. Este trabalho demonstra habilidades avançadas em análise de dados, modelagem e visualização. Ele foi projetado para proporcionar insights valiosos que ajudam a empresa a aumentar seu faturamento e melhorar a eficiência operacional.
 
 <img src="03_Recursos/gif_dashboard.gif">
 
@@ -24,7 +24,7 @@ Para usar o dashboard:
    - Abra o arquivo no Excel.
    - No menu Dashboard Utilize os filtros interativos no painel de controle para segmentar as informações desejadas, consulte os gráficos e tabelas dinâmicas para obter insights detalhados.
    - No menu Dados consulte as informações que basearam o nosso dashboard. Ele possui filtros para que possa ser gerado relatórios conforme a necessidade dos interessados.
-   - No menu Dinâmicas veja, de forma estruturada, todas as fórmulas utilizadas e que dão embasamento passa os gráficos interativos do dashboard.
+   - No menu Dinâmicas veja, de forma estruturada, todas as fórmulas utilizadas e que dão embasamento para os gráficos interativos do dashboard.
    - No menu contato estão os contatos para suporte do produto.
 
 ## 📖 Artigo Completo
