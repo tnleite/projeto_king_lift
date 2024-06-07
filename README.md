@@ -26,7 +26,7 @@ Para usar o dashboard:
    - No menu contato estão os contatos para suporte do produto.
 
 ## 📖 Artigo Completo
-Para uma análise detalhada do projeto, incluindo metodologias e insights obtidos, leia o [artigo completo](https://medium.com/king-lift-dashboard).
+Para uma análise detalhada do projeto, incluindo metodologias e insights obtidos, leia o [artigo completo](https://medium.com/@thiago.leit/king-lift-dashboard-c823dc3fcc56).
 
 ## 🏗️ Arquitetura dos Dados
 <img src="03_Recursos/imagem_arquitetura_dados.png">
