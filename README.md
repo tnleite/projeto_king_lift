@@ -58,11 +58,20 @@ O fluxo de dados no projeto segue a seguinte estrutura:
 
 ## 🖼️ Screenshots
 Aqui estão algumas capturas de tela do dashboard:
-- ![Screenshot 1](images/screenshot1.png)
-  *Exemplo de análise de faturamento por tipo de equipamento.*
-- ![Screenshot 2](images/screenshot2.png)
-  *Distribuição de clientes por região.*
-  
+
+Visão geral do Dashboard:
+
+<img src="03_Recursos/imagem_geral_dashboard.png">
+
+Menu Dados:
+
+<img src="03_Recursos/imagem_base_dados_dashboard.png">
+
+Menu Dinâmicas:
+
+<img src="03_Recursos/imagem_tabelas_dinamicas_dashboard.png">
+
+
 ## 📞 Contato
 - 📫 Você pode entrar em contato comigo pelo meu [e-mail](mailto:thiago.leit@hotmail.com).
 - 💼 Meu perfil no [LinkedIn](https://www.linkedin.com/in/tnleite/) para acompanhar meu progresso e projetos.
