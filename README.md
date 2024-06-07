@@ -45,7 +45,7 @@ O fluxo de dados no projeto segue a seguinte estrutura:
 
 ## 🔄 Etapas do Projeto
 1. **Extração e Transformação de Dados**: Utilização do Power Query para combinar e limpar dados de faturamento mensal, clientes e equipamentos. *Habilidades: Limpeza e transformação de dados.*
-2. **Modelagem de Dados**: Criação de um modelo de dados relacional eficiente com Power Pivot. *Habilidades: Modelagem de dados, uso de DAX.*
+2. **Modelagem de Dados**: Criação de um modelo de dados relacional eficiente com Power Pivot. *Habilidades: Modelagem de dados*
 3. **Análise e Visualização**: Desenvolvimento de tabelas dinâmicas e gráficos interativos para responder a perguntas críticas de negócios. *Habilidades: Visualização de dados, storytelling.*
 4. **Desenvolvimento do Dashboard**: Criação de um dashboard interativo em Excel para facilitar a obtenção de insights. *Habilidades: Design de dashboard, interatividade.*
 5. **Segurança dos Dados**: Implementação de medidas para proteger a integridade e confidencialidade dos dados. *Habilidades: Segurança de dados.*
